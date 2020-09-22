@@ -4,6 +4,7 @@ module Mdm
 
   autoload :ApiKey
   autoload :AsyncCallback
+  autoload :ModuleResult
   autoload :Client
   autoload :Cred
   autoload :Event
